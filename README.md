@@ -1,2 +1,1 @@
-# proyectito-XD
-node angular
+# prueba
